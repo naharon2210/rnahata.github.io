@@ -5,7 +5,7 @@ layout: default
 
 # About
 
-Hi! I'm Richard, a senior studying EECS at UC Berkeley. I also teach [CS 70](https://www.eecs70.org/) and lead a research group exploring federated learning, advised by [James Demmel](http://people.eecs.berkeley.edu/~demmel/). Sometime in fall 2023, I will be joining [Radix Trading](https://www.radixtrading.co/) full-time as a Quantitative Technologist.
+Hi! I'm Richard, a senior studying EECS at UC Berkeley. I also teach [CS 70](https://www.eecs70.org/) and lead a research group exploring federated learning, advised by [James Demmel](http://people.eecs.berkeley.edu/~demmel/). Sometime in fall 2023, I will be joining [Radix Trading](https://www.radix-trading.com/) full-time as a Quantitative Technologist.
 
 In my free time, I enjoy:
 *   **Hiking** - My favourite trail is **[The Enchantments](https://www.alltrails.com/trail/us/washington/the-enchantments-trail?search=true) in Washington** and most recently, I hiked the **[Watchtower Trail](https://www.alltrails.com/trail/us/california/watchtower-trail) in Sequoia National Park**.
