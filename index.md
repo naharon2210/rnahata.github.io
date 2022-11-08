@@ -8,7 +8,7 @@ layout: default
 Hi! I'm Richard, a senior studying EECS at UC Berkeley. I also teach [CS 70](https://www.eecs70.org/) and lead a research group exploring federated learning, advised by [James Demmel](http://people.eecs.berkeley.edu/~demmel/). Sometime in fall 2023, I will be joining [Radix Trading](https://www.radix-trading.com/) full-time as a Quantitative Technologist.
 
 In my free time, I enjoy:
-*   **Hiking** - My favourite trail is **[The Enchantments](https://www.alltrails.com/trail/us/washington/the-enchantments-trail?search=true) in Washington** and most recently, I hiked the **[Watchtower Trail](https://www.alltrails.com/trail/us/california/watchtower-trail) in Sequoia National Park**.
+*   **Hiking** - My favourite trail is **[The Enchantments](https://www.alltrails.com/trail/us/washington/the-enchantments-trail) in Washington** and most recently, I hiked the **[Watchtower Trail](https://www.alltrails.com/trail/us/california/watchtower-trail) in Sequoia National Park**.
 *   **Reading** - *Anna Karenina* is the greatest novel of all time and Jane Austen is the funniest human that has ever lived or will ever live.
 *   **Cooking** - I love making pasta and dumplings and I am ideologically opposed to store-bought dumpling wrappers.
 *   **Lifting** - On a good day, I'm **70%** of the way through the road to 20 pull-ups and on a bad day, it drops to **60%** 🙃 I also got pinned at the RSF one time but I still don't use the safety catches when I bench by myself.
