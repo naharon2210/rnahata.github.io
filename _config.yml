@@ -16,6 +16,10 @@ description: >-
   “Enfant terrible, enfant terrible!” Betsy repeated.
 
 sidebar:
+  - name: Hiking Journal
+    icon: <i class="fa-solid fa-person-hiking"></i>
+    link: /hiking
+  -
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/rizhu
@@ -28,7 +32,5 @@ sidebar:
   - name: Resume
     icon: <i class="fa-solid fa-file-lines"></i>
     link: https://github.com/rizhu/Resume
-  -
-  - name: Hiking Journal
-    icon: <i class="fa-solid fa-person-hiking"></i>
-    link: /hiking
+
+github: [metadata]

@@ -2,9 +2,13 @@
 layout: post
 title: The Enchantments - 2021/07/24
 author: Richard Hu
-tags: hiking
+tags:
+- hiking
+- Washington
+- United States
 excerpt_separator: <!--more-->
 ---
+{% seo %}
 
 The highlight of my summer in Seattle—the Enchantments is a glorious, awe-inspiring, 20-mile trek that pushes you to your limits but rewards you handsomely for it.<!--more--> I planned this hike for weeks leading up to it and rounded up a group of about 10-15 Amazon interns. We stayed in a hotel in Wenachtee the night before and got up at 3 AM to start the day. I hiked from 6:15 AM to 8:45 PM and by the end I was completely spent but it was one of the best experiences of my life.
 
@@ -14,10 +18,10 @@ Lastly, the bugs on this trail are something else. I put on 99% concentrated DEE
 
 [AllTrails link](https://www.alltrails.com/trail/us/washington/the-enchantments-trail)
 
-![Stream View](/assets/images/hiking/2021_07_24-enchantments/1.jpg)
-![Colchuck View](/assets/images/hiking/2021_07_24-enchantments/2.jpg)
-![Peak View](/assets/images/hiking/2021_07_24-enchantments/3.jpg)
-![Enchantments View 1](/assets/images/hiking/2021_07_24-enchantments/4.jpg)
-![Enchantments View 2](/assets/images/hiking/2021_07_24-enchantments/5.jpg)
-![Enchantments View 3](/assets/images/hiking/2021_07_24-enchantments/6.jpg)
-![Enchantments View 4](/assets/images/hiking/2021_07_24-enchantments/7.jpg)
+![Stream View](/assets/images/hiking/2021-07-24-enchantments/1.jpg)
+![Colchuck View](/assets/images/hiking/2021-07-24-enchantments/2.jpg)
+![Peak View](/assets/images/hiking/2021-07-24-enchantments/3.jpg)
+![Enchantments View 1](/assets/images/hiking/2021-07-24-enchantments/4.jpg)
+![Enchantments View 2](/assets/images/hiking/2021-07-24-enchantments/5.jpg)
+![Enchantments View 3](/assets/images/hiking/2021-07-24-enchantments/6.jpg)
+![Enchantments View 4](/assets/images/hiking/2021-07-24-enchantments/7.jpg)

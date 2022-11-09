@@ -2,7 +2,12 @@
 layout: post
 title: Creamery Meadow, Bluffs, Panorama, and Ridge Trail Loop - 2022/03/06
 author: Richard Hu
-tags: hiking
+tags:
+- hiking
+- Andrew Molera State Park
+- Big Sur
+- California
+- United States
 excerpt_separator: <!--more-->
 ---
 
@@ -10,7 +15,7 @@ My friends Albert, Sahil, Tianchen and I decided to head out to the Big Sur for 
 
 [AllTrails link](https://www.alltrails.com/trail/us/california/creamery-meadow-bluffs-panorama-and-ridge-trail-loop)
 
-![Sur View 1](/assets/images/hiking/2022_03_06-big_sur/1.png)
-![Sur View 2](/assets/images/hiking/2022_03_06-big_sur/2.jpg)
-![Sur View 3](/assets/images/hiking/2022_03_06-big_sur/3.jpg)
-![Beach View](/assets/images/hiking/2022_03_06-big_sur/4.png)
+![Sur View 1](/assets/images/hiking/2022-03-06-creamery-meadow/1.png)
+![Sur View 2](/assets/images/hiking/2022-03-06-creamery-meadow/2.jpg)
+![Sur View 3](/assets/images/hiking/2022-03-06-creamery-meadow/3.jpg)
+![Beach View](/assets/images/hiking/2022-03-06-creamery-meadow/4.png)
