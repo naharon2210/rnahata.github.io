@@ -12,7 +12,7 @@ In my free time, I enjoy:
 *   **Reading** - *Anna Karenina* is the greatest novel of all time and Jane Austen is the funniest human that has ever lived or will ever live.
 *   **Cooking** - I love making pasta and dumplings and I am ideologically opposed to store-bought dumpling wrappers.
 *   **Lifting** - On a good day, I'm **70%** of the way through the road to 20 pull-ups and on a bad day, it drops to **60%** 🙃 I also got pinned at the RSF one time but I still don't use the safety catches when I bench by myself.
-*   **Music** - Favourite artists have got to be Nas, Kanye, ELO, Daft Punk, 2Pac, Beethoven, Elton John, and Dire Straits. Recently, I've been listening to **Wu-Tang**, **reggaeton**, and **French indie pop**.
+*   **Music** - Favourite artists have got to be Nas, Kanye, ELO, Daft Punk, 2Pac, Beethoven, Elton John, and Dire Straits. Recently, I've been listening to **Taylor Swift**, **Nas**, **reggaeton**, and **French indie pop**.
 *   **NYT Crosswords** - Proud to say that on 10 August 2022 at 22:39 PDT, I completed the Wednesday in 51:11 with no checks or bashing for the final missing letter. Someday, I'll get a Thursday by myself. Not anytime soon though 😓
 
 I support Liverpool Football Club! ✊ YNWA 🔴
