@@ -9,26 +9,23 @@ color-scheme: dark
 favicon: false
 
 logo: ./assets/images/me.jpg
-title: Richard Hu
+title: Ronak Nahata
 tagline: Personal Website
-email: r.hu@berkeley.edu
+email: rnahata@asu.edu
 description: >-
   “Enfant terrible, enfant terrible!” Betsy repeated.
 
 sidebar:
-  - name: Hiking Journal
-    icon: <i class="fa-solid fa-person-hiking"></i>
-    link: /hiking
-  -
+  # - name: Hiking Journal
+  #   icon: <i class="fa-solid fa-person-hiking"></i>
+  #   link: /hiking
+  # -
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/rizhu
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/rhu2001/
-  - name: Goodreads
-    icon: <i class="fa-brands fa-goodreads"></i>
-    link: https://www.goodreads.com/rizhu
   - name: Resume
     icon: <i class="fa-solid fa-file-lines"></i>
     link: https://github.com/rizhu/Resume
